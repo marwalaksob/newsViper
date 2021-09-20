@@ -1,0 +1,6 @@
+framework module Pods_NewsAvitoViper_NewsAvitoViperUITests {
+  umbrella header "Pods-NewsAvitoViper-NewsAvitoViperUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
